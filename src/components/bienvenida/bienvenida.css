@@ -1,0 +1,447 @@
+@media only screen and (max-width: 800px) {
+   
+.container-bienvenida{
+    width: 100%;
+    height: 700px;
+    display:block;
+    margin:0px;
+    background-color:#eaeaf1;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-content: flex-start;
+    align-items: flex-start;
+    
+  
+}
+
+.container-bienvenida-ver-mas{
+    
+    height: 1000px;;
+ 
+  
+}
+
+.dos-containers-izquierda{
+    width: 100%;
+   
+    height: 50%;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 20px 0px;
+    background-color: #eaeaf1;
+  
+}
+
+.dos-containers-derecha{
+    width: 100%;
+    height: 40%;
+    max-height: 330px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+    padding: 80px 0px 20px 0px;
+    background-color: #eaeaf1;
+  
+}
+
+.dos-containers-ver-mas{
+    width: 100%;
+    height: 45%;
+    display:inline-flex;
+    justify-content:center;
+    margin: 85px 0px;
+    background-color:#eaeaf1
+}
+
+.dos-containers-container-izq{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    padding-top:20px;
+    background-color:#eaeaf1;
+   
+}
+
+.container-izq-dos-columnas-saludo{
+    width: 90%;
+    height: 20%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    background-color:#eaeaf1
+
+}
+
+
+
+.tres-columnas-saludo{
+    width: 100%;
+    height: 90px;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    margin: 0px 10px;
+    background-color:#eaeaf1
+}
+
+.hola{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 200px;
+    color:black;
+    text-align:start;
+    background-color:#eaeaf1;
+    padding: 0px 20px;
+    
+}
+
+.Agustin{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700px;
+    color:black;
+    text-align:start;
+    background-color:#eaeaf1;
+    padding: 0px 20px;
+}
+
+.container-izq-dos-columnas-texto{
+    width: 100%;
+    height: 30%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    background-color:#eaeaf1
+
+}
+.container-parrafo-bienvenida-uno{
+    width: 100%;
+    height: 100%;
+    
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px 10px;
+    background-color:#eaeaf1;
+    text-align:justify;
+  
+}
+
+.container-parrafo-bienvenida-otros{
+    width: 100%;
+    height: 100%;
+    padding:20px 20px;
+    margin: 20px 0px 0px 0px;;
+    display: none;
+    flex-direction: column;
+    margin: 15px 10px;
+    background-color:#eaeaf1;
+    text-align:justify;
+   
+}
+
+.container-parrafo-bienvenida-otros-show{
+    
+    display: flex;
+    
+}
+
+
+
+.parrafo-bienvenida{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 400px;
+    color:gray;
+    text-align:start;
+    background-color:#eaeaf1;
+    hyphens: auto;
+
+}
+
+.container-button-centrar{
+    display:flex;
+    justify-content:center;
+    background-color: #EAEAF1;
+    min-width: 100px;
+    
+}
+
+.bienvenida-ver-mas-button{
+    width: 5%;
+    min-width: 100px;
+    background-color: #2C5282;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0px;
+    margin: 5px;
+    font-weight: normal;
+    transition: all 50ms;
+}
+
+.bienvenida-ver-mas-button:hover{
+   
+    background-color: #2C5282;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0px;
+    margin: 5px;
+    font-weight: bold;
+    transform:scale(1.10);
+}
+
+/* container derecha ----------------- */
+
+
+.dos-containers-container-der{
+    width: 100%;
+    
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 20px 0px 0px;
+    background-color:#eaeaf1
+}
+
+.container-foto-camisa{
+    width: 100%;
+    height: 100%;
+    max-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0px;
+   background-color:#eaeaf1
+
+}
+
+.foto-camisa{
+    width: 60%;
+    max-width: 220px;
+    height: 100%;
+    background-color:#eaeaf1;
+    border-radius:30%;
+}
+
+
+}
+
+@media only screen and (min-width: 801px) {
+    .container-bienvenida{
+        width: 100%;
+        height: 500px;
+        display:flex;
+        margin:0px;
+        background-color:#eaeaf1;
+        justify-content: center;
+        flex-wrap:wrap-reverse
+        
+      
+    }
+    
+    .container-bienvenida-ver-mas{
+        
+        height: 600px;;
+     
+      
+    }
+    
+    .dos-containers-izquierda{
+        width: 70%;
+       
+        height: 100%;
+        display: inline-flex;
+        justify-content: center;
+        margin: 85px 0px 0px 0px;
+        padding: 65px 0px 20px 0px;
+        background-color: #eaeaf1;
+      
+    }
+    
+    .dos-containers-derecha{
+        width: 30%;
+       
+        height: 80%;
+        display: inline-flex;
+        justify-content: center;
+        margin: 85px 0px 0px 0px;
+        padding: 0px 0px 20px 0px;
+        background-color: #eaeaf1;
+      
+    }
+    
+    .dos-containers-ver-mas{
+        width: 100%;
+        height: 500px;
+        display:inline-flex;
+        justify-content:center;
+        margin: 85px 0px;
+        background-color:#eaeaf1
+    }
+    
+    .dos-containers-container-izq{
+        width: 100%;
+        height: 100%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        padding-top:20px;
+        background-color:#eaeaf1;
+       
+    }
+    
+    .container-izq-dos-columnas-saludo{
+        width: 90%;
+        height: 20%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        background-color:#eaeaf1
+    
+    }
+    
+    
+    
+    .tres-columnas-saludo{
+        width: 100%;
+        height: 90px;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        margin: 0px 10px;
+        background-color:#eaeaf1
+    }
+    
+    .hola{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 200px;
+        color:black;
+        text-align:start;
+        background-color:#eaeaf1
+    }
+    
+    .Agustin{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 700px;
+        color:black;
+        text-align:start;
+        background-color:#eaeaf1
+    }
+    
+
+    .container-parrafo-bienvenida-uno{
+        width: 100%;
+        height: 100%;
+        padding:20px 20px;
+        margin: 0px 0px;
+        display: flex;
+        flex-direction: column;
+       
+        background-color:#eaeaf1;
+        text-align:justify;
+      
+    }
+    
+    .container-parrafo-bienvenida-otros{
+        width: 100%;
+        height: 100%;
+        padding:20px 20px;
+        margin: 20px 0px 0px 0px;;
+        display: none;
+        flex-direction: column;
+        margin: 15px 10px;
+        background-color:#eaeaf1;
+        text-align:justify;
+       
+    }
+    
+    .container-parrafo-bienvenida-otros-show{
+        
+        display: flex;
+        
+    }
+    
+    
+    
+    .parrafo-bienvenida{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 400px;
+        color:gray;
+        text-align:start;
+        background-color:#eaeaf1;
+        hyphens: auto;
+    
+    }
+    
+    .container-button-centrar{
+        display:flex;
+        justify-content:center;
+        background-color: #EAEAF1;
+        min-width: 100px;
+        
+    }
+    
+    .bienvenida-ver-mas-button{
+        width: 5%;
+        min-width: 100px;
+        background-color: #2C5282;
+        color:white;
+        text-decoration: none;
+        text-align: center;
+        padding: 5px 0px;
+        margin: 5px;
+        font-weight: normal;
+        transition: all 50ms;
+    }
+    
+    .bienvenida-ver-mas-button:hover{
+       
+        background-color: #2C5282;
+        color:white;
+        text-decoration: none;
+        text-align: center;
+        padding: 5px 0px;
+        margin: 5px;
+        font-weight: bold;
+        transform:scale(1.10);
+    }
+    
+    /* container derecha ----------------- */
+    
+    
+    .dos-containers-container-der{
+        width: 100%;
+        
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px 20px 0px 0px;
+        background-color:#eaeaf1
+    }
+    
+    .container-foto-camisa{
+        width: 100%;
+        height: 100%;
+        max-height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px 0px;
+       background-color:#eaeaf1
+    
+    }
+    
+    .foto-camisa{
+        width: 80%;
+        max-width: 350px;
+        height: 100%;
+        background-color:#eaeaf1;
+        border-radius:30%;
+    }
+    
+    
+}

@@ -1,0 +1,503 @@
+@media only screen and (max-width: 800px) {
+    
+.container-proyectos-total{
+    width: 100%;
+    height:600px;
+    display:flex;
+    justify-content:center;
+ 
+}
+.container-proyectos{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:flex-start;
+    margin: 0px 0px;
+    padding: 55px 0px 0px;
+    
+}
+
+
+
+.container-tres-filas-titulo{
+    width: 100%;
+    height: 10%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    margin: 10px 0px;
+}
+
+.container-tres-filas-parrafo{
+    width: 100%;
+    height: 40%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    margin: 10px 0px;
+}
+
+.container-tres-filas-tarjetas{
+    width: 100%;
+    height: 50%;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    margin: 10px 0px;
+}
+
+.cuatro-filas-container-header{
+    width: 100%;
+    height: 40px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.header-title{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700px;
+   
+
+}
+
+.proyecto-container-descripcion-parrafo{
+    width: 100%;
+    height: 30%;
+    display:flex;
+    justify-content:center;
+    align-items: flex-start;
+    margin: 10px 0px;
+    background-color: #eaeaf1;
+    overflow:auto;
+}
+
+.cuatro-filas-container-parrafo{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    justify-content:center;
+    align-items: flex-start;
+    margin: 10px 0px;
+    overflow:auto;
+    padding: 0px 25px;
+}
+
+.parrafo-parrafo{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 400px;
+    color:gray;
+    text-align:justify;
+    hyphens: auto;
+    
+}
+
+.tres-filas-container-tarjetas{
+    width: 100%;
+    height: 400px;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+
+}
+
+.container-tarjetas-dos-containers{
+    width: 100%;
+    max-width: 750px;
+    height: 100%;
+    display:inline-flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0px 15px;
+}
+
+.dos-containers-container-proyecto{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 10px;
+    background-color: #eaeaf1;
+    border-radius: 20%;
+    transition: all 300ms;
+}
+
+.dos-containers-container-proyecto:hover{
+
+transform:scale(1.10);
+}
+
+.proyecto-container-img{
+    width: 80%;
+    height: 35%;
+    background-color:gray;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px;
+    border-radius: 20%;
+}
+
+.imagen-proyecto{
+    height: 100%;
+    width: 100%;
+    border-radius:20%;
+}
+
+.proyecto-container-descripcion-title{
+    background-color: #eaeaf1;
+}
+
+
+
+
+.tarjeta-title{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 700px;
+    background-color: #eaeaf1; 
+}
+
+.tarjeta-parrafo{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 400px;
+    color:gray;
+    text-align:center;
+    background-color:#eaeaf1;
+}
+
+
+
+/* ---------------texto encima */
+.proyecto-container-proyecto-y-texto-encima{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #eaeaf1;
+    border-radius: 20%;
+    transition: all 300ms;
+    position:relative;
+}
+.proyecto-container-texto-encima{
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+     background-color: #eaeaf1;
+    border-radius: 20%;
+    transition: all 300ms;
+    opacity:0;
+}
+
+.proyecto-container-texto-encima:hover{
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+     background-color: #eaeaf1;
+    border-radius: 20%;
+    transition: all 300ms;
+    opacity:1;
+}
+
+.texto-encima-titulo{
+    width: 100%;
+    height: 20%;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size:2rem;
+    text-align: center;
+    background-color: #eaeaf1;
+   
+}
+
+.texto-encima-subtitulo{
+    width: 100%;
+    height: 10%;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    color:gray;
+    font-size:1.5rem;
+    text-align: center;
+    background-color: #eaeaf1;
+    
+
+}
+}
+
+@media only screen and (min-width: 801px){
+    .container-proyectos-total{
+        width: 100%;
+        height:700px;
+        display:flex;
+        justify-content:center;
+        margin: 20px 0px 20px 0px;
+    }
+    .container-proyectos{
+        width: 100%;
+        height: 100%;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:flex-start;
+        margin: 60px 0px;
+        
+    }
+    
+    .container-tres-filas{
+        width: 100%;
+        height: 100%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        align-items:flex-start;
+        margin: 10px 0px;
+    }
+    
+    .container-tres-filas-titulo{
+        width: 100%;
+        height: 10%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        align-items:flex-start;
+        margin: 10px 0px;
+    }
+
+    .container-tres-filas-parrafo{
+        width: 100%;
+        height: 10%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        align-items:flex-start;
+        margin: 10px 0px;
+    }
+
+    .container-tres-filas-tarjetas{
+        width: 100%;
+        height: 70%;
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        align-items:flex-start;
+        margin: 10px 0px;
+    }
+
+
+    
+    .cuatro-filas-container-header{
+        width: 100%;
+        height: 40px;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+        margin: 10px 0px;
+    }
+    
+    .header-title{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 700px;
+       
+    
+    }
+    
+    .proyecto-container-descripcion-parrafo{
+        width: 100%;
+        height: 30%;
+        display:flex;
+        justify-content:center;
+        align-items: flex-start;
+        margin: 10px 0px;
+        background-color: #eaeaf1;
+        overflow:auto;
+    }
+    
+    .cuatro-filas-container-parrafo{
+        width: 100%;
+        height: 100%;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+        margin: 10px 0px;
+        overflow:auto;
+        padding: 0px 25px;
+    }
+    
+    .parrafo-parrafo{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 400px;
+        color:gray;
+        text-align:justify;
+        hyphens: auto;
+        
+    }
+    
+    .tres-filas-container-tarjetas{
+        width: 100%;
+        height: 400px;
+        display:flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin: 10px 0px;
+    
+    }
+    
+    .container-tarjetas-dos-containers{
+        width: 100%;
+        max-width: 750px;
+        height: 100%;
+        display:inline-flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin: 10px 15px;
+    }
+    
+    .dos-containers-container-proyecto{
+        width: 50%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin: 10px 20px;
+        background-color: #eaeaf1;
+        border-radius: 20%;
+        transition: all 300ms;
+    }
+    
+    .dos-containers-container-proyecto:hover{
+    
+    transform:scale(1.10);
+    }
+    
+    .proyecto-container-img{
+        width: 80%;
+        height: 35%;
+        background-color:gray;
+        border-radius: 10%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px 0px;
+        border-radius: 20%;
+    }
+    
+    .imagen-proyecto{
+        height: 100%;
+        width: 100%;
+        border-radius:20%;
+    }
+    
+    .proyecto-container-descripcion-title{
+        background-color: #eaeaf1;
+    }
+    
+    
+    
+    
+    .tarjeta-title{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 700px;
+        background-color: #eaeaf1; 
+    }
+    
+    .tarjeta-parrafo{
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 400px;
+        color:gray;
+        text-align:center;
+        background-color:#eaeaf1;
+    }
+    
+    
+    
+    /* ---------------texto encima */
+    .proyecto-container-proyecto-y-texto-encima{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        background-color: #eaeaf1;
+        border-radius: 20%;
+        transition: all 300ms;
+        position:relative;
+    }
+    .proyecto-container-texto-encima{
+        position: absolute;
+        z-index: 5;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+         background-color: #eaeaf1;
+        border-radius: 20%;
+        transition: all 300ms;
+        opacity:0;
+    }
+    
+    .proyecto-container-texto-encima:hover{
+        position: absolute;
+        z-index: 5;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+         background-color: #eaeaf1;
+        border-radius: 20%;
+        transition: all 300ms;
+        opacity:1;
+    }
+    
+    .texto-encima-titulo{
+        width: 100%;
+        height: 20%;
+        font-family: 'Varela Round', sans-serif;
+        font-weight: bold;
+        font-size:2rem;
+        text-align: center;
+        background-color: #eaeaf1;
+       
+    }
+    
+    .texto-encima-subtitulo{
+        width: 100%;
+        height: 10%;
+        font-family: 'Varela Round', sans-serif;
+        font-weight: bold;
+        color:gray;
+        font-size:1.5rem;
+        text-align: center;
+        background-color: #eaeaf1;
+        
+    
+    }
+}
+
+
