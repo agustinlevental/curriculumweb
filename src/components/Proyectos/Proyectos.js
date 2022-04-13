@@ -51,10 +51,11 @@ The next projects were developed on the Codecademy Full Stack Path: Web Developm
                                         <h1 class ="texto-encima-titulo">
                                             React Js | Css | HTML
                                         </h1>
+                                        <a class="enlace-ver-repositorio" href="//github.com/agucone/Jammming"> <h5 class="ver-repositorio">ver repositorio</h5> </a>
                                     </div>
                                 
                                     <div class="proyecto-container-img">
-                                        <img src="./jammming.jpg" alt="jammming" class="imagen-proyecto" />
+                                       <img src="./jammming.jpg" alt="jammming" class="imagen-proyecto" />
                                     </div>
 
                                     <div class="proyecto-container-descripcion-title">
@@ -80,10 +81,12 @@ The next projects were developed on the Codecademy Full Stack Path: Web Developm
                                 <h1 class ="texto-encima-titulo">
                                     React Js | Css | HTML
                                 </h1>
+
+                                <a class="enlace-ver-repositorio" href="//github.com/agucone/Ravenous"> <h5 class="ver-repositorio">ver repositorio</h5> </a>
                                  </div>
 
                                   <div class="proyecto-container-img">
-                                <img src="./ravenous.jpg" alt="ravenous" class="imagen-proyecto" />
+                              <img src="./ravenous.jpg" alt="ravenous" class="imagen-proyecto" /> 
                                  </div>
 
                                  <div class="proyecto-container-descripcion-title">
