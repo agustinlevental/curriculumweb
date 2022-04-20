@@ -2,7 +2,7 @@
    
 .container-bienvenida{
     width: 100%;
-    height: 700px;
+    height: 900px;
     display:block;
     margin:0px;
     background-color:#eaeaf1;
@@ -16,7 +16,7 @@
 
 .container-bienvenida-ver-mas{
     
-    height: 1000px;;
+    height: 1150px;;
  
   
 }
@@ -24,7 +24,7 @@
 .dos-containers-izquierda{
     width: 100%;
    
-    height: 50%;
+    height: 70%;
     display: inline-flex;
     justify-content: center;
     margin: 0px 0px 0px 0px;
@@ -40,7 +40,7 @@
     display: inline-flex;
     justify-content: center;
     margin: 0px 0px 0px 0px;
-    padding: 80px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
     background-color: #eaeaf1;
   
 }
@@ -108,7 +108,7 @@
 
 .container-izq-dos-columnas-texto{
     width: 100%;
-    height: 30%;
+    height: 45%;
     display:flex;
     flex-direction: column;
     justify-content:flex-start;
@@ -120,24 +120,27 @@
     height: 100%;
     
     margin: 20px 0px;
+    padding: 0px 20px;
     display: flex;
     flex-direction: column;
-    margin: 15px 10px;
+    margin: 15px 0px;
     background-color:#eaeaf1;
     text-align:justify;
+    overflow:auto;
   
 }
 
 .container-parrafo-bienvenida-otros{
     width: 100%;
-    height: 100%;
-    padding:20px 20px;
+    height: 80%;
+    padding:20px 20px 0px 20px;
     margin: 20px 0px 0px 0px;;
     display: none;
     flex-direction: column;
-    margin: 15px 10px;
+   
     background-color:#eaeaf1;
     text-align:justify;
+    overflow:auto;
    
 }
 
@@ -202,7 +205,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin: 0px 20px 0px 0px;
+    margin: 0px 0px 0px 0px;
     background-color:#eaeaf1
 }
 
@@ -221,6 +224,7 @@
 .foto-camisa{
     width: 60%;
     max-width: 220px;
+    min-width: 200px;
     height: 100%;
     background-color:#eaeaf1;
     border-radius:30%;

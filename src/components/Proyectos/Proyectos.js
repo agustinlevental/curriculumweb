@@ -26,9 +26,7 @@ export class Proyectos extends react.Component {
 
                 <div class="cuatro-filas-container-parrafo">
                     
-                    <p class="parrafo-parrafo">Here you can watch and learn about some of the projects I've been working on and maybe share some ideas to improve and build more. If you'd like to provide me with some feedback, don't hesitate and contact me.
-
-The next projects were developed on the Codecademy Full Stack Path: Web Development Fundamentals</p>
+                    <p class="parrafo-parrafo"> Aqui se pueden ver los dos proyectos de graduación realizados en Codecademy, que incluyen HTML , CSS responsive y React con sus respectivas request a API's. Posteriormente aprendí a realizar las request a través de Async y Await , y a través de Hooks con useEffect.</p>
                 </div>
 
                 </div>
@@ -63,7 +61,7 @@ The next projects were developed on the Codecademy Full Stack Path: Web Developm
                                     </div>
 
                                     <div class="proyecto-container-descripcion-parrafo">
-                                        <p class="tarjeta-parrafo">Aplicacion hecha en Codecademy, que consume la API de Spotify para crear listas de reproduccion</p>
+                                        <p class="tarjeta-parrafo">Aplicacion que consume la API de Spotify para traer un JSON de canciones y crear listas de reproduccion</p>
                                     </div>
                                     
                                 </div>
@@ -94,7 +92,7 @@ The next projects were developed on the Codecademy Full Stack Path: Web Developm
                                   </div>
 
                                  <div class="proyecto-container-descripcion-parrafo">
-                                <p class="tarjeta-parrafo">Aplicacion hecha en Codecademy, que consume la API de Yep para buscar restaurantes</p>
+                                <p class="tarjeta-parrafo">Aplicacion que consume la API de Yelp para buscar restaurantes según diferentes criterios</p>
                                   </div>
 
                             </div>

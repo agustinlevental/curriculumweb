@@ -4,12 +4,12 @@ import contact from "./contact.css"
 export class Contact extends react.Component {
     render() {
         return(
-            <div class="container-total-contact">
-            <div class="container-contact" id="contact">
+            <div class="container-total-contact " id="contact" >
+            <div class="container-contact" >
                 <div class="container-contact-container-dos-colummas">
 
                     <div class="dos-columnas-container-title">
-                        <h1 class="contacto-title">Contáctame</h1>
+                        <h1 class="contacto-title" >Contáctame</h1>
                     </div>
 
                 <div class="container-contact-container-dos-colummas">

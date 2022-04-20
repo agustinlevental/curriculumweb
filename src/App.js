@@ -8,6 +8,7 @@ import {Datos} from './components/datos/Datos.js'
 import {Proyectos} from "./components/Proyectos/Proyectos.js"
 import {Skills} from "./components/Skills/Skills.js";
 import {Contact} from "./components/contact/Contact.js"
+import {Certificaciones} from "./components/Certificaciones/Certificaciones.js"
 
 export class App extends react.Component {
 
@@ -16,13 +17,11 @@ export class App extends react.Component {
       <div>
    
    <Nav/>
-   
    <Bienvenida />
-
-   <Informacion />
-  
-  <Proyectos/>
+    <Certificaciones />
+    <Proyectos/>
   <Skills/>
+   <Informacion />
   <Contact/>
    </div>
     )

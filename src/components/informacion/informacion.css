@@ -4,7 +4,7 @@
     width: 100%;
     height:1600px;
     margin: 0px 0px 10px;
-    padding: 80px 0px 0px;
+    padding: 20px 0px 0px;
 
     display:flex;
     flex-flow: row wrap;
@@ -24,12 +24,12 @@
 }
 
 .dos-containers-sobre-mi-estudios {
-    width: 90%;
+    width: 75%;
     min-width: 220px;
-    height: 40%;
+    height: 47%;
    
     background-color: #eaeaf1;
-    border-radius: 20%;
+    border-radius: 5%;
     margin: 5px 20px;
     padding:10px 10px;
     align-items: flex-start;
@@ -48,12 +48,12 @@
 }
 
 .dos-containers-sobre-mi-experiencia {
-    width: 90%;
+    width:75%;
     min-width: 220px;
     height: 50%;
    
     background-color: #eaeaf1;
-    border-radius: 20%;
+    border-radius: 5%;
     margin: 5px 20px;
     padding:10px 10px;
     align-items: flex-start;
@@ -123,7 +123,7 @@ z-index: 0;
     font-weight: bold;
     background-color: #eaeaf1;
     text-align: center;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     hyphens: auto;
     overflow:auto;
 }
@@ -254,7 +254,7 @@ align-items: flex-start;
     
     .info-dos-containers{
         width: 100%;
-        height: 100%;
+        height: 90%;
         margin: 60px 0px 0px 0px;  
         
         align-items: center;

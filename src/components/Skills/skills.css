@@ -13,7 +13,7 @@
         height:100%;
         display:flex;
         margin: 0px 0px 0px 0px;
-        padding: 60px 0px 0px;
+        padding: 20px 0px 0px;
         justify-content: center;
         align-items: flex-start;
         flex-direction: column;
@@ -21,9 +21,9 @@
         
         .container-tres-containers-tarjetas{
             width: 100%;
-            height: 80%;
+            height: 70%;
             display: flex;
-            margin: 0px 0px;
+            margin: 0px 0px 50px 0px;
             padding: 0px 0px;
             justify-content: center;
             align-items: center;
@@ -104,7 +104,7 @@
         
         
         .container-tarjetas-container-cinco-tarjetas{
-            width: 50%;
+            width: 90%;
             height: 100%;
             display: inline-flex;
             margin: 10px 0px;
@@ -162,15 +162,14 @@
         }
         
         .tarjeta-container-parrafo{
-            width: 200px;
-            height: 30px;
+            height: 20%;
+            width: 80%;
             display: flex;
-            margin: 45px 0px;
-            padding: 2px 2px;
             justify-content: center;
             align-items: flex-start;
-            background-color:#eaeaf1
-            
+            padding: 10px;
+            background-color: #eaeaf1;
+            margin: 0px
         }
         
         .title-skills{
@@ -342,25 +341,25 @@
         }
         
         .tarjeta-container-title{
-            width: 30px;
-            height:20px;
-            display:flex;
-            margin: 5px 0px;
-            padding: 2px 2px;
+            height: 25%;
+            width: 100%;
+            display: flex;
             justify-content: center;
             align-items: flex-start;
-            background-color:#eaeaf1
+            
+            padding: 10px;
+            background-color: #eaeaf1;
         }
         
         .tarjeta-container-parrafo{
-            width: 200px;
-            height: 30px;
+            height: 22%;
+            width: 80%;
             display: flex;
-            margin: 45px 0px;
-            padding: 2px 2px;
             justify-content: center;
             align-items: flex-start;
-            background-color:#eaeaf1
+            padding: 10px;
+            margin: 0px;
+            background-color: #eaeaf1;
             
         }
         

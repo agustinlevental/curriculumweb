@@ -18,10 +18,7 @@ export class Skills extends react.Component {
 
                 <div class= "container-tres-containers-parrafo">
                 <div class="tres-containers-container-parrafo">
-                        <p class= "parrafo-skills">Here you can know some of the skills I've been acquiring in the development
-                         of my professional career. Most of the programming-related skills have been acquired in a
-                          self-taught way, but I would like to give credits to Codecademy, Universidad Nacional 
-                          de Colombia (Misión TIC 2022) and Google Search (stackoverflow, MDN and w3school).</p>
+                        <p class= "parrafo-skills">Estas habilidades las adquirí a través de los cursos anteriormente certificados, y de acuerdo al plan de desarrollador web full-stack de CodeCademy , del cual me falta terminar el tramo de Back-End</p>
                     </div>
                 </div>
 
