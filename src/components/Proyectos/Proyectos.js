@@ -80,7 +80,7 @@ export class Proyectos extends react.Component {
                                     React Js | Css | HTML
                                 </h1>
 
-                                <a class="enlace-ver-repositorio" href="//github.com/agustinlevental/reavenous-foods"> <h5 class="ver-repositorio">ver repositorio</h5> </a>
+                                <a class="enlace-ver-repositorio" href="//github.com/agustinlevental/reavenous-food"> <h5 class="ver-repositorio">ver repositorio</h5> </a>
                                  </div>
 
                                   <div class="proyecto-container-img">
