@@ -2,6 +2,7 @@
    
 .container-bienvenida{
     width: 100%;
+    min-width: 245px;
     height: 900px;
     display:block;
     margin:0px;

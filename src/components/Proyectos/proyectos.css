@@ -2,6 +2,7 @@
     
 .container-proyectos-total{
     width: 100%;
+    min-width: 245px;
     height:1150px;
     display:flex;
     justify-content:center;

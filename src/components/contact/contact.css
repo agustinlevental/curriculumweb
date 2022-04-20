@@ -2,6 +2,7 @@
 
 .container-total-contact{
     width: 100%;
+    min-width: 245px;
     height: 160px;
     display: flex;
     flex-direction: column;

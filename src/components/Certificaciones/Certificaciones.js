@@ -3,7 +3,9 @@ import certificaciones from "./certificaciones.css"
 
 export class Certificaciones extends react.Component {
     render() {
-        return  (<div class="container-certificaciones">
+        return  (
+        <div class="container-certificaciones-total" id="certificaciones">
+        <div class="container-certificaciones" >
             
                 <div class="certificaciones-container-title">
                     <h1 class="certificaciones-title"> Certificaciones</h1>
@@ -86,6 +88,6 @@ export class Certificaciones extends react.Component {
 
                         
                 </div>
-                
+             </div>
     )}
 }
