@@ -1,14 +1,16 @@
 @media only screen and (max-width: 900px) {
     .container-certificaciones{
-        height: 1000px;
+        height: 1100px;
         width: 100%;
+        min-width: 245px;
         display:flex;
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 0px;
+        margin-top: 70px;
         margin: 20px 0px;
         background-color: #eaeaf1;
+        
     
     }
 
@@ -197,13 +199,13 @@
 @media only screen and (min-width: 901px) { 
 
 .container-certificaciones{
-    height: 300px;
+    height: 400px;
     width: 100%;
     display:flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 0px;
+    padding-top: 70px;
     margin: 20px 0px;
     background-color: #eaeaf1;
 

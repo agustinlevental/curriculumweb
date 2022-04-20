@@ -21,10 +21,12 @@ export class Nav extends react.Component {
 
                 <div class="nav-container-tres-containers-center">
                     <div class="tres-containers-container-menues">
-                        <a class="menu" href="#about" >Sobre mi </a>
+                        <a class="menu" href="#certificaciones"> Certificaciones</a>
                         <a class="menu" href="#proyectos"> Proyectos</a>
                         <a class="menu" href="#skills" >Skills</a>
+                        <a class="menu" href="#about" >Sobre mi </a>
                         <a class="menu" href="#contact">Contacto</a>
+                       
                         
                     </div>
                 </div>
