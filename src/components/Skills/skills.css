@@ -88,7 +88,7 @@
             font-weight: lighter;
             color:gray;
             background-color:#eaeaf1;
-            
+            text-align: center;
         }
         
         .tres-containers-container-tarjetas{
@@ -185,6 +185,7 @@
             color:gray;
             text-align: justify;
             hyphens: auto;
+            text-align: center;
           ;
         }
 }
@@ -278,6 +279,7 @@
             font-weight: lighter;
             color:gray;
             background-color:#eaeaf1;
+            text-align: center;
             
         }
         
@@ -361,7 +363,7 @@
             padding: 10px;
             margin: 0px;
             background-color: #eaeaf1;
-            
+            flex-direction: row;
         }
         
         .title-skills{
@@ -376,6 +378,7 @@
             color:gray;
             text-align: justify;
             hyphens: auto;
+            text-align: center;
           ;
         }
 }
