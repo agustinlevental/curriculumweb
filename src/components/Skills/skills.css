@@ -164,13 +164,14 @@
         
         .tarjeta-container-parrafo{
             height: 20%;
-            width: 80%;
+            width: 60%;
             display: flex;
             justify-content: center;
-            align-items: flex-start;
+            /* align-items: flex-start; */
+            /* flex-direction: column; */
             padding: 10px;
+            margin: 0px;
             background-color: #eaeaf1;
-            margin: 0px
         }
         
         .title-skills{
@@ -183,7 +184,7 @@
             font-family: 'Varela Round', sans-serif;
             font-weight: lighter;
             color:gray;
-            text-align: justify;
+           
             hyphens: auto;
             text-align: center;
           ;
@@ -355,15 +356,15 @@
         }
         
         .tarjeta-container-parrafo{
-            height: 22%;
-            width: 80%;
+            height: 20%;
+            width: 60%;
             display: flex;
             justify-content: center;
-            align-items: flex-start;
+            /* align-items: flex-start; */
+            /* flex-direction: column; */
             padding: 10px;
             margin: 0px;
             background-color: #eaeaf1;
-            flex-direction: row;
         }
         
         .title-skills{
@@ -376,7 +377,7 @@
             font-family: 'Varela Round', sans-serif;
             font-weight: lighter;
             color:gray;
-            text-align: justify;
+           
             hyphens: auto;
             text-align: center;
           ;
