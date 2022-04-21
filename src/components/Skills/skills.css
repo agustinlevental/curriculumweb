@@ -162,9 +162,9 @@
             background-color:#eaeaf1
         }
         
-        .tarjeta-container-parrafo{
+        .skills-tarjeta-container-parrafo{
             height: 20%;
-            width: 60%;
+            width: 70%;
             display: flex;
             justify-content: center;
             /* align-items: flex-start; */

@@ -38,7 +38,7 @@ export class Skills extends react.Component {
                                     <h2 class="title"> HTML 5</h2>
                                 </div>
 
-                                <div class="tarjeta-container-parrafo">
+                                <div class="skills-tarjeta-container-parrafo">
                                     <p class="parrafo">Level:Intermediate</p>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@ export class Skills extends react.Component {
                                     <h2 class="title"> CSS</h2>
                                 </div>
 
-                                <div class="tarjeta-container-parrafo">
+                                <div class="skills-tarjeta-container-parrafo">
                                     <p class="parrafo">Level:Intermediate</p>
                                 </div>
                                 
@@ -70,7 +70,7 @@ export class Skills extends react.Component {
                                     <h2 class="title"> JavaScript</h2>
                                 </div>
 
-                                <div class="tarjeta-container-parrafo">
+                                <div class="skills-tarjeta-container-parrafo">
                                     <p class="parrafo">Level:Basic</p>
                                 </div>
                                 
@@ -86,7 +86,7 @@ export class Skills extends react.Component {
                                     <h2 class="title"> React</h2>
                                 </div>
 
-                                <div class="tarjeta-container-parrafo">
+                                <div class="skills-tarjeta-container-parrafo">
                                     <p class="parrafo">Level:Basic</p>
                                 </div>
                                 
@@ -102,7 +102,7 @@ export class Skills extends react.Component {
                                     <h2 class="title"> Git</h2>
                                 </div>
 
-                                <div class="tarjeta-container-parrafo">
+                                <div class="skills-tarjeta-container-parrafo">
                                     <p class="parrafo">Level:Basic</p>
                                 </div>
                                 
