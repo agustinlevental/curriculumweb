@@ -90,4 +90,5 @@ export class Certificaciones extends react.Component {
                 </div>
              </div>
     )}
-}
+
+        }
