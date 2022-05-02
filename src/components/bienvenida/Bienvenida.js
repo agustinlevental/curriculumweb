@@ -25,8 +25,8 @@ export class Bienvenida extends react.Component {
     <div class="dos-containers-container-der">
         <div class="container-foto-camisa">
             <img class="foto-camisa" 
-           src="./foto.jpg"
-            alt="Agustin con camisa" />
+           src="./foto-cv.jpg"
+            alt="Foto Agustin" />
         </div>
     </div>
 
@@ -58,8 +58,9 @@ export class Bienvenida extends react.Component {
    
             <div class="container-parrafo-bienvenida-uno">
                 <p class="parrafo-bienvenida">
-                Soy un desarrollador Front end Jr. con la motivacion de seguir aprendiendo y mejorando.
-                Realicé la primer etapa de Argentina Programa, y luego decidí especializarme en React a través de Codecademy. 
+                Soy desarrollador Front-End Trainee / Junior con la motivación de seguir aprendiendo y mejorando.
+Realicé la primera etapa de Argentina Programa, y luego decidí especializarme en React a través de Codecademy.
+
                 </p>
             </div>
 
@@ -74,15 +75,15 @@ export class Bienvenida extends react.Component {
             </div>
             <div class="container-parrafo-bienvenida-otros" id="hide_verMas">
                 <p class="parrafo-bienvenida">
-                Soy Licenciado en Relaciones Publicas, deseo encarar la programación con la misma ambición que me llevó como profesional a ser 
-                prensa del Gobernador Omar Perotti.
+                Busco mi primera experiencia laboral como desarrollador, y deseo tomar desafíos que me mantengan aprendiendo las tecnologías más usadas en el mercado.
+
                 </p> <br/>
                 <p class="parrafo-bienvenida">
-                Pretendo tomar desafios que me mantengan aprendiendo las tecnologias mas usadas en el mercado.
-                Soy una persona proactiva, autodidacta, con mucha facilidad para aprender , y apasionado por cada proyecto que afronto.
+                Soy una persona proactiva, autodidacta, con mucha facilidad para aprender , y apasionada por cada proyecto que afronto.
+
                 </p> <br/>
                 <p class="parrafo-bienvenida">
-               Le doy mucha importancia al ambiente de trabajo y a la posibilidad de poder aprender de mis colegas.
+                Soy Licenciado en Relaciones Públicas e Institucionales, le doy mucha importancia al ambiente de trabajo y a la posibilidad de poder aprender de mis colegas.
                 </p> 
             </div>
                 
