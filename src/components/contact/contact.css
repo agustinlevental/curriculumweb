@@ -43,6 +43,7 @@
 .contacto-title{
     font-family: 'Varela Round', sans-serif;
     font-weight: normal;
+    font-size: 2em;
     color:white;
     text-align:center;
     background-color: #2c5282;
@@ -138,6 +139,7 @@
     .contacto-title{
         font-family: 'Varela Round', sans-serif;
         font-weight: normal;
+        font-size: 2em;
         color:white;
         text-align:center;
         background-color: #2c5282;

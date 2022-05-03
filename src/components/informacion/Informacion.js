@@ -7,6 +7,10 @@ export class Informacion extends react.Component {
         return (
             <div class="container-informacion" id="about">
 
+                <div class="sobre-mi-container-title">
+                <h1 class="sobre-mi-title"  >Sobre mi</h1>
+                </div>
+
 
                 <div class= "info-dos-containers">
               

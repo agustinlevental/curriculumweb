@@ -65,6 +65,7 @@
 .header-title{
     font-family: 'Varela Round', sans-serif;
     font-weight: 700px;
+    font-size: 2em;
    
 
 }
@@ -271,7 +272,7 @@ transform:scale(1.10);
         height:700px;
         display:flex;
         justify-content:center;
-        margin: 20px 0px 20px 0px;
+
     }
     .container-proyectos{
         width: 100%;
@@ -298,7 +299,7 @@ transform:scale(1.10);
 
     .container-tres-filas-parrafo{
         width: 50%;
-        height: 10%;
+        height: 15%;
         display:flex;
         justify-content:center;
         align-items:flex-start;
@@ -312,7 +313,7 @@ transform:scale(1.10);
         flex-direction: column;
         justify-content:flex-start;
         align-items:flex-start;
-        margin: 10px 0px;
+        margin: 10px 0px 0px 0px;
     }
 
 
@@ -329,8 +330,7 @@ transform:scale(1.10);
     .header-title{
         font-family: 'Varela Round', sans-serif;
         font-weight: 700px;
-       
-    
+        font-size: 2em;
     }
     
     .proyecto-container-descripcion-parrafo{
@@ -366,7 +366,7 @@ transform:scale(1.10);
     
     .tres-filas-container-tarjetas{
         width: 100%;
-        height: 400px;
+        height: 100%;
         display:flex;
         justify-content: center;
         align-items: flex-start;
