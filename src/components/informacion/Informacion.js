@@ -111,7 +111,7 @@ export class Informacion extends react.Component {
               
 
 
-                  <div class="container-informacion-parrafos-canal-veo">
+                  <div class="container-informacion-parrafos-trabajo">
                          <p class="informacion-parrafos-title">
                             2021 - Venta de espacio publicitario - Canal Veo (Trabajo actual)
                        </p>
@@ -124,12 +124,8 @@ Referencia Leonardo Toretta, jefe
 342 427-9000
                           </p>
                           
-                      </div>
-                      
-                       
-                       
-                                <div class="container-informacion-parrafos-gobierno">
-                                
+                <br/>
+                <br/>
 
                                     <p class="informacion-parrafos-title">
         2020  -Comunicador Digital - Gobierno de la Provincia de Santa Fe

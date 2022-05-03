@@ -228,7 +228,7 @@
     min-width: 240px;
     height: 100%;
     background-color:#eaeaf1;
-    border-radius:30%;
+    border-radius:50px;
 }
 
 
@@ -445,7 +445,7 @@
         max-width: 350px;
         height: 100%;
         background-color:#eaeaf1;
-        border-radius:30%;
+        border-radius:50px;
     }
     
     
