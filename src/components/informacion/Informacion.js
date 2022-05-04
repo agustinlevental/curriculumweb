@@ -135,12 +135,11 @@ Referencia Leonardo Toretta, jefe
         Redacción y manejo de redes sociales de Gobierno provincial y Omar Perotti, cobertura de actividades ministeriales,
          redacción de partes de prensa, creación de reporte diario de la provincia para medios, adaptación de decretos a lenguajes 
          de diseño gráfico para redes sociales y carteles en la vía pública, colaboración en el manual de estilo. Finalización por
-          renuncia del ministro a cargo.
-                                    </p>
-                                  
-                                    <p class="informacion-parrafos-parrafo">
-        Referencia Rocío Acosta, jefa
-        342 537-8133
+          renuncia del ministro a cargo.                          
+          <p class="informacion-parrafos-parrafo">
+                Referencia Rocío Acosta, jefa
+                342 537-8133
+        </p>
 
                                     </p>
                                 </div>

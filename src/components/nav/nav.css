@@ -1,4 +1,4 @@
-@media only screen and (max-width:400px){
+@media only screen and (max-width:7300px){
     .nav-container{
         width: 100%;
         min-width: 245px;
@@ -149,7 +149,7 @@
         font-family: 'Varela Round', sans-serif;
     }
 }
-    @media only screen and (min-width:401px){
+    @media only screen and (min-width:731px){
 
 .nav-container{
     width: 100%;
